@@ -1,5 +1,8 @@
 # Amazon Extras Giveaway Auto-Entry
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Tampermonkey](https://img.shields.io/badge/Tampermonkey-Compatible-green.svg)](https://www.tampermonkey.net/)
+
 A Tampermonkey script that automates entering giveaways on Amazon's employee benefits portal.
 
 ## What is Amazon Extras?
